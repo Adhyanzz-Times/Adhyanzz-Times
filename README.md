@@ -33,7 +33,7 @@
 - Admin dashboard with login, CRUD, and quiz tracking
 - Role-based access and secure auth using Werkzeug
 
-### 🛒 [Accessories Store Analytics]
+### 🛒 [Accessories Store Analytics](https://github.com/Adhyanzz-Times/BDM-PROJECT)
 - Google Sheets and Excel
 - Time-series forecasting and ABC analysis
 - Inventory & Sales optimization using sales patterns
