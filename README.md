@@ -28,7 +28,7 @@
 
 ## 🛠️ Projects
 
-### 🎯 [Quiz Master – Flask Web App]
+### 🎯 [Quiz Master – Flask Web App](https://github.com/Adhyanzz-Times/AppDev1_Quiz-Master)
 - Flask + SQLite + SQLAlchemy backend
 - Admin dashboard with login, CRUD, and quiz tracking
 - Role-based access and secure auth using Werkzeug
