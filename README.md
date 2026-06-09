@@ -147,26 +147,7 @@
 
 ---
 
-## 📈 GitHub Statistics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adhyanzz-Times&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhyanzz-Times&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhyanzz-Times&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adhyanzz-Times/Adhyanzz-Times/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
