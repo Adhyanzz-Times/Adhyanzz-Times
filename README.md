@@ -156,14 +156,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-📧 Email: adhyan.busy@gmail.com
+<b>📧 [adhyan.busy@gmail.com](mailto:adhyan.busy@gmail.com)</b>
 
   <a href="https://github.com/Adhyanzz-Times">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
----
 
 <p align="center">
 ⭐ If you like my projects, feel free to star them!
